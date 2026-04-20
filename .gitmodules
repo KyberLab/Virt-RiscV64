@@ -1,0 +1,9 @@
+[submodule "config"]
+	path = config
+	url = ../KyberConfig.git
+[submodule "bench"]
+	path = bench
+	url = ../KyberBench.git
+[submodule "image"]
+	path = image
+	url = ../KyberImage
